@@ -4,3 +4,5 @@ However, assets such as art and music are not included as well as what has been 
 ## To Play: ##
 * Newgrounds:https://www.newgrounds.com/portal/view/761600
 * Itch.io: https://gamedev-alan.itch.io/blind-box-am-i-hot-or-cold
+- - - -
+July 2020
