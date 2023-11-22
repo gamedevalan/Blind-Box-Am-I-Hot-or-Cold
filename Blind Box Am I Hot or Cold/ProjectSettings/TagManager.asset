@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Goal
+  - Poison
+  - Coin
+  - coin2
+  - coin3
+  - EnemyFire
+  - EnemyIce
+  - IceBox
+  - Bullet
+  - FireBox
+  - Enemy
+  - Secret
+  - EnemyAttack
+  - Obstacle
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ceiling
+  - Poison
+  - Goal
+  - Coin
+  - Coin2
+  - Coin3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1283827783
+    locked: 0
+  - name: Mountains
+    uniqueID: 1695566761
+    locked: 0
+  - name: BackTrees
+    uniqueID: 3649806073
+    locked: 0
+  - name: BackElements
+    uniqueID: 1492689855
+    locked: 0
+  - name: FrontBackEle
+    uniqueID: 2495473345
+    locked: 0
+  - name: Sight
+    uniqueID: 216911215
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plants
+    uniqueID: 2936201341
+    locked: 0
+  - name: Words
+    uniqueID: 2511657745
+    locked: 0
+  - name: FireIce
+    uniqueID: 3461107323
+    locked: 0
+  - name: Laptop
+    uniqueID: 2206688961
+    locked: 0
+  - name: PauseButton
+    uniqueID: 659981951
+    locked: 0
+  - name: PauseWords
+    uniqueID: 2501023775
+    locked: 0
